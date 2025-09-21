@@ -12,3 +12,13 @@ nim c -d:release --out:file_agregator.exe main.nim
 ```
 nim c -d:release --out:file_agregator main.nim
 ```
+
+---
+
+
+### In Linux:
+
+```
+mv file_agregator .local/bin/
+```
+To use the program in any folder and without the `./` 
