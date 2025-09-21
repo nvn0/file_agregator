@@ -1,5 +1,5 @@
 # file_agregator
-move file of an extension to a new folder
+nim program do move files of a specific file extension to a new folder
 
 ## Compile:
 
